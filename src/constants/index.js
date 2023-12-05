@@ -106,7 +106,7 @@ const experiences = [
   {
     title: 'React.js Intern',
     company_name: 'EKbana',
-    icon: meta,
+    icon: reactjs,
     iconBg: '#383E56',
     date: 'Jan 2022 - April 2022',
     points: [
@@ -119,7 +119,7 @@ const experiences = [
   {
     title: 'Web Developer',
     company_name: 'Trident',
-    icon: shopify,
+    icon: web,
     iconBg: '#383E56',
     date: 'Nov 2022 - April 2023',
     points: [
