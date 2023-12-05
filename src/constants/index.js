@@ -1,5 +1,4 @@
 import {
-  backend,
   creator,
   web,
   javascript,
@@ -42,10 +41,6 @@ const services = [
     icon: web,
   },
 
-  {
-    title: 'Backend Developer',
-    icon: backend,
-  },
   {
     title: 'UI Designer',
     icon: creator,
