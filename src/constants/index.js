@@ -13,11 +13,13 @@ import {
   mongodb,
   git,
   figma,
-  meta,
-  shopify,
-  carrent,
-  jobit,
+  island,
+  movie,
+  ytube,
   threejs,
+  pfsite,
+  gpt3,
+  restro,
 } from '../assets';
 
 export const navLinks = [
@@ -132,6 +134,26 @@ const experiences = [
 
 const projects = [
   {
+    name: '3D Island Porfolio',
+    description: 'A 3D island portfolio made with React and Three.js.',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'threejs',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'tailwindcss',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: island,
+    source_code_link: 'https://github.com/PrashantaDA/3d_PF-Island-',
+  },
+  {
     name: 'YTube',
     description: 'A youtube clone made with React and Rapid API.',
     tags: [
@@ -148,29 +170,88 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: carrent,
-    source_code_link: 'https://github.com/',
+    image: ytube,
+    source_code_link: 'https://github.com/PrashantaDA/YTube',
   },
   {
     name: 'Movie App',
-    description:
-      'Web application that enables users to search for movies, view the cast, budget and rating of the movie .',
+    description: 'Movies App to view popular movies and also search for movies and view the details.',
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'the_movieDB',
         color: 'green-text-gradient',
       },
       {
-        name: 'styled component',
+        name: 'styled_component',
         color: 'pink-text-gradient',
       },
     ],
-    image: jobit,
-    source_code_link: 'https://github.com/',
+    image: movie,
+    source_code_link: 'https://github.com/PrashantaDA/MovieDB/',
+  },
+  {
+    name: 'Portfolio Site',
+    description: 'A simple portfolio website..',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'framer_motion',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'mui',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: pfsite,
+    source_code_link: 'https://github.com/PrashantaDA/PortFo/',
+  },
+  {
+    name: 'Restaurant UI- Gericht',
+    description: 'A simple restaurant static website..',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'css',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'ui',
+        color: 'green-text-gradient',
+      },
+    ],
+    image: restro,
+    source_code_link: 'https://github.com/PrashantaDA/ModernRestro',
+  },
+  {
+    name: 'GPT3 UI - Open AI',
+    description: 'GPT3 OpenAI static website..',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'css',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'ui',
+        color: 'green-text-gradient',
+      },
+    ],
+    image: gpt3,
+    source_code_link: 'https://github.com/PrashantaDA/Gpt3',
   },
 ];
 
