@@ -152,6 +152,7 @@ const projects = [
     ],
     image: island,
     source_code_link: 'https://github.com/PrashantaDA/3d_PF-Island-',
+    live_link: 'https://prashantapf3d1.netlify.app/',
   },
   {
     name: 'YTube',
@@ -172,6 +173,7 @@ const projects = [
     ],
     image: ytube,
     source_code_link: 'https://github.com/PrashantaDA/YTube',
+    live_link: 'https://ytubecl.netlify.app/',
   },
   {
     name: 'Movie App',
@@ -192,6 +194,7 @@ const projects = [
     ],
     image: movie,
     source_code_link: 'https://github.com/PrashantaDA/MovieDB/',
+    live_link: 'https://movyedb.netlify.app/',
   },
   {
     name: 'Portfolio Site',
@@ -212,6 +215,7 @@ const projects = [
     ],
     image: pfsite,
     source_code_link: 'https://github.com/PrashantaDA/PortFo/',
+    live_link: 'https://prashantapf.netlify.app/',
   },
   {
     name: 'Restaurant UI- Gericht',
@@ -232,6 +236,7 @@ const projects = [
     ],
     image: restro,
     source_code_link: 'https://github.com/PrashantaDA/ModernRestro',
+    live_link: 'https://modrestro.netlify.app/',
   },
   {
     name: 'GPT3 UI - Open AI',
@@ -252,6 +257,7 @@ const projects = [
     ],
     image: gpt3,
     source_code_link: 'https://github.com/PrashantaDA/Gpt3',
+    live_link: 'https://gpt3des.netlify.app/',
   },
 ];
 
