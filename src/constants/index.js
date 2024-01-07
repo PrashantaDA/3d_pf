@@ -134,27 +134,6 @@ const experiences = [
 
 const projects = [
   {
-    name: '3D Island Porfolio',
-    description: 'A 3D island portfolio made with React and Three.js.',
-    tags: [
-      {
-        name: 'react',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'threejs',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'tailwindcss',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: island,
-    source_code_link: 'https://github.com/PrashantaDA/3d_PF-Island-',
-    live_link: 'https://prashantapf3d1.netlify.app/',
-  },
-  {
     name: 'YTube',
     description: 'A youtube clone made with React and Rapid API.',
     tags: [
