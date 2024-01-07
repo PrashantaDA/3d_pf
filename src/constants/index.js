@@ -13,7 +13,6 @@ import {
   mongodb,
   git,
   figma,
-  island,
   movie,
   ytube,
   threejs,
