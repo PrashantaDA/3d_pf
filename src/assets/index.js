@@ -27,44 +27,44 @@ import shopify from './company/shopify.png';
 import starbucks from './company/starbucks.png';
 import tesla from './company/tesla.png';
 
-import island from './island.png';
+// import island from './island.png';
 import movie from './movie.png';
 import ytube from './ytube.png';
-import pfsite from './pfsite.png';
-import restro from './restro.png';
-import gpt3 from './gpt3.png';
+// import pfsite from './pfsite.png';
+// import restro from './restro.png';
+// import gpt3 from './gpt3.png';
 
 export {
-  logo,
-  backend,
-  creator,
-  mobile,
-  web,
-  github,
-  menu,
-  close,
-  css,
-  docker,
-  figma,
-  git,
-  html,
-  javascript,
-  mongodb,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  mui,
-  typescript,
-  threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  island,
-  movie,
-  ytube,
-  pfsite,
-  restro,
-  gpt3,
+	logo,
+	backend,
+	creator,
+	mobile,
+	web,
+	github,
+	menu,
+	close,
+	css,
+	docker,
+	figma,
+	git,
+	html,
+	javascript,
+	mongodb,
+	nodejs,
+	reactjs,
+	redux,
+	tailwind,
+	mui,
+	typescript,
+	threejs,
+	meta,
+	shopify,
+	starbucks,
+	tesla,
+	// island,
+	movie,
+	ytube,
+	// pfsite,
+	// restro,
+	// gpt3,
 };
